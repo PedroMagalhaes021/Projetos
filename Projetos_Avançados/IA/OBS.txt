@@ -1,0 +1,5 @@
+Quando for executar o mago 
+tem q ativar  no terminal
+bashcd "/home/pedro/Área de trabalho/Projetinhos /Projetos Py"
+source venv/bin/activate
+python3 main.py
