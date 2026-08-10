@@ -1,0 +1,31 @@
+*Comandos Básicos* 
+ {Printf -> Comando de saída = interação}
+ {Scanf -> Comando de Entrada -> Alocação de memória (Variável)}
+
+*As Variações precisam destas formatações* 
+%d -> inteiro
+%f -> float
+%ld ->long int
+%lf -> long float -> double
+%c -> caracter
+%s -> string
+
+*Estrutura de Decisão*
+{if ... else}
+{if ... if else ... else}
+{switch – case}
+
+*Estruturas de Repetições*
+{for}
+{while}
+{do ... while}
+
+*Estrutura de Dados*
+{vetor}
+{Matriz}
+{struct}
+{pilha}
+{lista -> simplesmente e Duplamente}
+{fila}
+{árvores}
+{grafos}
