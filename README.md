@@ -1,6 +1,6 @@
 # 📁 Área de Projetos do Pedro
 
-Repositório com testes, exercícios e projetos pessoais desenvolvidos em Python, C e outras linguagens, usados como espaço de prática e evolução.
+Repositório com testes, exercícios e projetos pessoais desenvolvidos em C, usados como espaço de prática e evolução.
 
 ## 📂 Estrutura
 
